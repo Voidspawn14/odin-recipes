@@ -17,6 +17,7 @@ h1 {
 .menu-links, .menu-links * {
     background-color: rgb(197, 180, 149);
     overflow: auto;
+    color: rgb(161, 53, 26);
 }
 
 .recipe-pic {
