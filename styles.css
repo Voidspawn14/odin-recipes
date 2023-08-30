@@ -22,6 +22,9 @@ h1 {
 
 .menu-links {
     overflow: auto;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .menu-links, .menu-links *, .recipe-content, .recipe-content * {
