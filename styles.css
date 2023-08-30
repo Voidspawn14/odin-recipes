@@ -20,6 +20,10 @@ h1 {
     margin-right: auto;
 }
 
+.menu-links {
+    overflow: auto;
+}
+
 .menu-links, .menu-links *, .recipe-content, .recipe-content * {
     background-color: rgb(197, 180, 149);
 }
