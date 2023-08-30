@@ -14,6 +14,12 @@ h1 {
     text-align: center;
 }
 
+.page-content {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 .menu-links, .menu-links *, .recipe-content, .recipe-content * {
     background-color: rgb(197, 180, 149);
     overflow: auto;
