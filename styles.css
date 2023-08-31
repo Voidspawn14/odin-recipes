@@ -22,13 +22,13 @@ h1 {
 
 .menu-links {
     overflow: auto;
-    width: 500px;
     margin-left: auto;
     margin-right: auto;
 }
 
 .menu-links, .recipe-content {
     background-color: rgb(197, 180, 149);
+    width: 500px;
 }
 
 .menu-links * {
@@ -43,7 +43,6 @@ h1 {
 }
 
 .recipe-content {
-    width: 500px;
     float: right;
     padding: 0px 25px 0px 25px;
 }
