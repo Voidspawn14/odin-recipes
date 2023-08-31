@@ -31,7 +31,7 @@ h1 {
     width: 500px;
 }
 
-.menu-links * {
+.menu-links a {
     color: rgb(161, 53, 26);
 }
 
