@@ -27,7 +27,7 @@ h1 {
     margin-right: auto;
 }
 
-.menu-links, .menu-links *, .recipe-content, .recipe-content * {
+.menu-links, .recipe-content {
     background-color: rgb(197, 180, 149);
 }
 
